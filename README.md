@@ -24,7 +24,9 @@ This Script Has only two Dependencies:
 | ---------- | ------------- | ----------------- | ----------------- | ------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | TEAM BEVEL | 1             | adewale-the-amebo | adewale the amebo | Adewale likes to be in everyone's business. | Male   | hair: bald; eyes: black; teeth: none; clothing: red; accessories: mask; expression: none; strength: powerful; weakness: curiosity | cad316c3-37f8-4b27-9f53-9d803bfcfee7 |
 
-2. Input the name of the csv file if the file doesn't have a .csv extension you will be prompted out of the Script
+A Sample Csv has been provided HNGi9 CSV FILE - Sheet1.csv
+
+2. Input the name of the csv file if the file doesn't have a .csv extension you will be prompted out of the Script e.g "HNGi9 CSV FILE - Sheet1.csv"
 
 3. Read CSV from Local Directory
 
