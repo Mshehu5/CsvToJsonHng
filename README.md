@@ -5,9 +5,10 @@ A script to convert csv to CHIP-0007 compatible json files
 ## Dependencies
 
 This Script Has only two Dependencies:
-a. Python 3.7 or higher which can be installed at [python](https://www.python.org/downloads/)
-b. Pandas which can be installed from your Terminal using
-`bash pip install pandas `
+
+1. Python 3.7 or higher which can be installed at [python](https://www.python.org/downloads/)
+2. Pandas which can be installed from your Terminal using
+   `bash pip install pandas `
 
 ## Guidlines to run Script
 
@@ -25,11 +26,11 @@ b. Pandas which can be installed from your Terminal using
 
 2. Input the name of the csv file if the file doesn't have a .csv extension you will be prompted out of the Script
 
-3.Read CSV from Local Directory
+3. Read CSV from Local Directory
 
-4.JSON File Is Generated per NFT entry in the CSV
-5.Each JSON File is Hashed using sha256 standard
-6.The sha256 hash is appended to the csv file.
+4. JSON File Is Generated per NFT entry in the CSV
+5. Each JSON File is Hashed using sha256 standard
+6. The sha256 hash is appended to the csv file.
 
 Temlate of the CHIP-0007 compatible json files that will be generated
 
@@ -68,7 +69,6 @@ Temlate of the CHIP-0007 compatible json files that will be generated
         "value": "https://examplepokemoncollection.com/"
       }
     ]
-  },
-  "data": {}
+  }
 }
 ```
